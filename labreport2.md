@@ -1,6 +1,5 @@
 **A JUnit test and any associated code:**
 
-
 ```
 #import static org.junit.Assert.*;
 import org.junit.*;
@@ -44,12 +43,17 @@ public class ArrayTests {
 }
 
 ```
-
-
+&nbsp;  
+&nbsp;
+ 
+  
 **Screenshot:**
 ![Image](https://github.com/Nobel1998/cse15l-preview-labreport/blob/main/screenshot.png)
-
-
+  
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp; 
 **Before:**
 
 ```
@@ -61,8 +65,9 @@ public class ArrayTests {
   }
 
 ```
-
-
+&nbsp;  
+&nbsp; 
+  
 **After:**
 
 ```
@@ -76,7 +81,9 @@ public class ArrayTests {
   }
 
 ```
-
+&nbsp;  
+&nbsp;  
+  
 **Why the fix addresses the issue**
 
 As the loop progresses, the original elements in the first half of the array are being overwritten, and by the time the loop tries to reverse the second half, 
