@@ -47,7 +47,7 @@ public class ArrayTests {
 
 
 **Screenshot:**
-![Image](C:\Users\16267\OneDrive\Desktop\screenshot.png)
+![Image](https://github.com/Nobel1998/cse15l-preview-labreport/blob/main/screenshot.png)
 
 
 **Before:**
