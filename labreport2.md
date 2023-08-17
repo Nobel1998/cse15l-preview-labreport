@@ -48,7 +48,7 @@ public class ArrayTests {
  
   
 **Screenshot:**
-![Alt text](https://github.com/Nobel1998/cse15l-preview-labreport/blob/main/screenshot.png)
+![Image](https://github.com/Nobel1998/cse15l-preview-labreport/blob/main/screenshot.png)
   
 &nbsp;  
 &nbsp;
